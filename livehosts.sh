@@ -70,7 +70,7 @@ for x in `seq 1 254`;do
 ping -c 1 $class.$x | grep "bytes from" | cut -d " " -f4 | cut -d ":" -f1 &
 done
 echo "#-----------------------------------#"
-echo "thanks for using...Good Day :) "
+echo "thanks for using...Remember to have Fun And Always Relax :) "
 sleep 2
 echo
 read -p "Please Press Enter to exit script"
