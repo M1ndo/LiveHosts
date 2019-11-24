@@ -1,6 +1,5 @@
 #!/bin/bash
-#Made By ybenel
-clear
+# created by ybenel
 
 RED=$(tput setaf 1 && tput bold)
 GREEN=$(tput setaf 2 && tput bold)
